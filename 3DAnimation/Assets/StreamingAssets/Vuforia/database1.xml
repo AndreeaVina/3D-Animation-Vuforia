@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="istockphoto-802846222-612x612" size="1.000000 1.460621" />
+    <ImageTarget name="f769026ad918c2029cc04b3e0effbf3c" size="1.000000 1.000000" />
+    <ImageTarget name="book2" size="1.000000 1.450411" />
+    <ImageTarget name="book1" size="1.000000 1.371576" />
+  </Tracking>
+</QCARConfig>
